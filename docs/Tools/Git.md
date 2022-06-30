@@ -6,6 +6,29 @@ title: Git
 # Git Cheat Sheet
 ![Git Cheat Sheet](https://res.cloudinary.com/practicaldev/image/fetch/s--bjpVKHPe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8ogqpfkvqqpyfbs3w6p7.png)
 
+## ইনস্টল (Setup)
+##### গিট ইনস্টল ( ম্যাক )
+```
+brew install git
+``` 
+গিট আনইনস্টল (ম্যাক)
+
+brew remove git
+গিট ইনস্টল (উবুন্টু)
+
+sudo apt-get install git
+গিট আনইনস্টল (উবুন্টু)
+
+sudo apt-get remove git
+গিট ভার্সন চেক
+
+git --version
+গিটটি কোথায় রয়েছে তা দেখুন
+
+which git
+গিট সাহায্য
+
+git help
 ## Common commands
 
 ### General
