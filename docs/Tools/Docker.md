@@ -8,3 +8,14 @@ title: Docker
 ```
 docker version
 ```
+### Login to Registry
+```
+docker login
+```
+```
+docker login localhost:8080
+```
+### Searhing an Image
+```
+docker search nginx
+```
